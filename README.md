@@ -3,7 +3,9 @@
 Food Ordering App
 
 Language : Swift 5
+
 iOS Deployment Target : iOS 14.0
+
 Database : Coredata
 
 The app is used to order food from multiple cusines.Where user can select different items and place order.
