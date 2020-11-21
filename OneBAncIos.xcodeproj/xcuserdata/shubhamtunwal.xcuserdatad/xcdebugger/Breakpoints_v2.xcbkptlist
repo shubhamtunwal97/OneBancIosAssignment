@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3C502E49-61FF-4017-AA46-162B4C744B8C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04A9B636-6D57-497A-BAAE-325E59002042"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OneBAncIos/CategoryCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "CategoryCollectionViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "04A9B636-6D57-497A-BAAE-325E59002042 - 73c4ac79d17f75ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OneBAncIos.CategoryCollectionViewCell.__deallocating_deinit"
+                  moduleName = "OneBAncIos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubhamtunwal/Documents/IOS%20projects/OneBAncIos/OneBAncIos/CategoryCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "04A9B636-6D57-497A-BAAE-325E59002042 - c14e0ccb25685937"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OneBAncIos.CategoryCollectionViewCell.__allocating_init(frame: __C.CGRect) -&gt; OneBAncIos.CategoryCollectionViewCell"
+                  moduleName = "OneBAncIos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubhamtunwal/Documents/IOS%20projects/OneBAncIos/OneBAncIos/CategoryCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "04A9B636-6D57-497A-BAAE-325E59002042 - 49e8067ee6845531"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OneBAncIos.CategoryCollectionViewCell.init(frame: __C.CGRect) -&gt; OneBAncIos.CategoryCollectionViewCell"
+                  moduleName = "OneBAncIos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubhamtunwal/Documents/IOS%20projects/OneBAncIos/OneBAncIos/CategoryCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "113">
+               </Location>
+               <Location
+                  uuid = "04A9B636-6D57-497A-BAAE-325E59002042 - f97b38277ba72132"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OneBAncIos.CategoryCollectionViewCell.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;OneBAncIos.CategoryCollectionViewCell&gt;"
+                  moduleName = "OneBAncIos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubhamtunwal/Documents/IOS%20projects/OneBAncIos/OneBAncIos/CategoryCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "04A9B636-6D57-497A-BAAE-325E59002042 - 72ac8da0116722d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OneBAncIos.CategoryCollectionViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;OneBAncIos.CategoryCollectionViewCell&gt;"
+                  moduleName = "OneBAncIos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubhamtunwal/Documents/IOS%20projects/OneBAncIos/OneBAncIos/CategoryCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "102">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E23AEDA-6C01-4304-AED9-0AD16F673BA0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OneBAncIos/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F637DF2B-F092-4604-ADCE-F644FDB6F373"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OneBAncIos/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "24400590-D1AD-4BCA-B7E7-7CD38849B879"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OneBAncIos/CategoryMenuViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "CategoryMenuViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "24400590-D1AD-4BCA-B7E7-7CD38849B879 - 49a0b103cf67ea0c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OneBAncIos.CategoryMenuViewController.__deallocating_deinit"
+                  moduleName = "OneBAncIos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubhamtunwal/Documents/IOS%20projects/OneBAncIos/OneBAncIos/CategoryMenuViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "24400590-D1AD-4BCA-B7E7-7CD38849B879 - 87eced2254e9750b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OneBAncIos.CategoryMenuViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; OneBAncIos.CategoryMenuViewController"
+                  moduleName = "OneBAncIos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubhamtunwal/Documents/IOS%20projects/OneBAncIos/OneBAncIos/CategoryMenuViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "24400590-D1AD-4BCA-B7E7-7CD38849B879 - 3848e17a7b35e97b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OneBAncIos.CategoryMenuViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; OneBAncIos.CategoryMenuViewController"
+                  moduleName = "OneBAncIos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubhamtunwal/Documents/IOS%20projects/OneBAncIos/OneBAncIos/CategoryMenuViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "397">
+               </Location>
+               <Location
+                  uuid = "24400590-D1AD-4BCA-B7E7-7CD38849B879 - f00dab451fa1d80e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OneBAncIos.CategoryMenuViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;OneBAncIos.CategoryMenuViewController&gt;"
+                  moduleName = "OneBAncIos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubhamtunwal/Documents/IOS%20projects/OneBAncIos/OneBAncIos/CategoryMenuViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "24400590-D1AD-4BCA-B7E7-7CD38849B879 - d0f753a7c0983531"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OneBAncIos.CategoryMenuViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;OneBAncIos.CategoryMenuViewController&gt;"
+                  moduleName = "OneBAncIos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubhamtunwal/Documents/IOS%20projects/OneBAncIos/OneBAncIos/CategoryMenuViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "338">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C5F1F97-F389-41FF-B870-053B85B45483"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OneBAncIos/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "964B5F82-9383-4EAE-B284-94AE25E43FDC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OneBAncIos/CategoryMenuViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "toCheckout(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
